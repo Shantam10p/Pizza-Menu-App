@@ -22,3 +22,7 @@ A React-based pizza menu application that dynamically displays a list of pizzas 
    ```bash
    git clone https://github.com/Shantam10p/Pizza-Menu-App.git
    ```
+
+## Preview
+![image](https://github.com/user-attachments/assets/6e91db97-e8b4-416d-b265-b4f74b33a758)
+
